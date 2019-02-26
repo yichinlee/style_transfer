@@ -27,7 +27,6 @@ past - an overcompensating trickery between the human body and its enclosure cou
 
 #selected outcome
 
-![under construction](https://github.com/yichinlee/style_transfer/blob/master/img/results_at_iteration_19.png?raw=true)
 ![under construction](https://github.com/yichinlee/style_transfer/blob/master/img/results_at_iteration_19_1.png?raw=true)
 ![under construction](https://github.com/yichinlee/style_transfer/blob/master/img/results_at_iteration_19_3.png?raw=true)
 
